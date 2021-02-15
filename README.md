@@ -4,8 +4,8 @@
 Francisco Jose Santana Sosa
 
 ## Descripción
-Implementación de una versión de Pong en processing, que permite a dos jugadores jugar usando las teclas 'w' para subir y 'a' para bajar, en 
-el caso del jugador de la izquierda y las teclas '&#8593;' para subir y '&#8595;' para bajar, en el caso del jugador de la derecha. Además
+Implementación de una versión de Pong en processing, que permite a dos jugadores jugar usando las teclas 'w' para subir y 'a' para bajar en 
+el caso del jugador de la izquierda y las teclas '&#8593;' para subir y '&#8595;' para bajar en el caso del jugador de la derecha. Además
 cuando un jugador de los dos llega a la puntuación de 10 se muestra una pantalla diciendo que jugador ha ganado y permite rejugar pulsando la 
 tecla 'r'.
 
