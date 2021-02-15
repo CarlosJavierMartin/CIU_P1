@@ -2,4 +2,4 @@
 Implementación de una versión de Pong en processing
 
 
-[!alt text](gif/animacion.gif)
+[!grab-landing-page](Pong/gif/animacion.gif)
